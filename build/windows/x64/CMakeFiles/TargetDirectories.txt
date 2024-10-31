@@ -1,0 +1,10 @@
+D:/flutterProject/test_app/build/windows/x64/CMakeFiles/INSTALL.dir
+D:/flutterProject/test_app/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+D:/flutterProject/test_app/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+D:/flutterProject/test_app/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/flutterProject/test_app/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/flutterProject/test_app/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+D:/flutterProject/test_app/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+D:/flutterProject/test_app/build/windows/x64/runner/CMakeFiles/test_app.dir
+D:/flutterProject/test_app/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+D:/flutterProject/test_app/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir

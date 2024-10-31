@@ -1,0 +1,10 @@
+D:/flutterProject/test_app/build/windows/x64/runner/Debug/data/icudtl.dat
+D:/flutterProject/test_app/build/windows/x64/runner/Debug/flutter_windows.dll
+D:/flutterProject/test_app/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/flutterProject/test_app/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/flutterProject/test_app/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+D:/flutterProject/test_app/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/flutterProject/test_app/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/flutterProject/test_app/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/flutterProject/test_app/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/flutterProject/test_app/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
