@@ -24,7 +24,7 @@ events:
       The output was:
       0
       閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.11.9+a69bbaaf5
-      鐢熸垚鍚姩鏃堕棿涓?31/10/2024 涓嬪崍 6:16:41銆?
+      鐢熸垚鍚姩鏃堕棿涓?1/11/2024 涓婂崍 11:36:27銆?
       
       鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\flutterProject\\test_app\\build\\windows\\x64\\CMakeFiles\\3.29.5-msvc4\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)銆?
       PrepareForBuild:
@@ -53,7 +53,7 @@ events:
           0 涓鍛?
           0 涓敊璇?
       
-      宸茬敤鏃堕棿 00:00:01.14
+      宸茬敤鏃堕棿 00:00:00.56
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -72,8 +72,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/flutterProject/test_app/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-eousqq"
-      binary: "D:/flutterProject/test_app/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-eousqq"
+      source: "D:/flutterProject/test_app/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-0wtzog"
+      binary: "D:/flutterProject/test_app/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-0wtzog"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -83,40 +83,40 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/flutterProject/test_app/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-eousqq'
+        Change Dir: 'D:/flutterProject/test_app/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-0wtzog'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_bc8dc.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_489c9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.11.9+a69bbaaf5
-        鐢熸垚鍚姩鏃堕棿涓?31/10/2024 涓嬪崍 6:16:43銆?
+        鐢熸垚鍚姩鏃堕棿涓?1/11/2024 涓婂崍 11:36:27銆?
         
-        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\flutterProject\\test_app\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-eousqq\\cmTC_bc8dc.vcxproj鈥?榛樿鐩爣)銆?
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\flutterProject\\test_app\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-0wtzog\\cmTC_489c9.vcxproj鈥?榛樿鐩爣)銆?
         PrepareForBuild:
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_bc8dc.dir\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_489c9.dir\\Debug\\鈥濄€?
           宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
-          姝ｅ湪鍒涘缓鐩綍鈥淒:\\flutterProject\\test_app\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-eousqq\\Debug\\鈥濄€?
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_bc8dc.dir\\Debug\\cmTC_bc8dc.tlog\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\flutterProject\\test_app\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-0wtzog\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_489c9.dir\\Debug\\cmTC_489c9.tlog\\鈥濄€?
         InitializeBuildStatus:
-          姝ｅ湪鍒涘缓鈥渃mTC_bc8dc.dir\\Debug\\cmTC_bc8dc.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
-          姝ｅ湪瀵光€渃mTC_bc8dc.dir\\Debug\\cmTC_bc8dc.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+          姝ｅ湪鍒涘缓鈥渃mTC_489c9.dir\\Debug\\cmTC_489c9.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_489c9.dir\\Debug\\cmTC_489c9.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_bc8dc.dir\\Debug\\\\" /Fd"cmTC_bc8dc.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_489c9.dir\\Debug\\\\" /Fd"cmTC_489c9.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
           鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.41.34120 鐗?
           鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_bc8dc.dir\\Debug\\\\" /Fd"cmTC_bc8dc.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_489c9.dir\\Debug\\\\" /Fd"cmTC_489c9.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\flutterProject\\test_app\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-eousqq\\Debug\\cmTC_bc8dc.exe" /INCREMENTAL /ILK:"cmTC_bc8dc.dir\\Debug\\cmTC_bc8dc.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/flutterProject/test_app/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-eousqq/Debug/cmTC_bc8dc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/flutterProject/test_app/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-eousqq/Debug/cmTC_bc8dc.lib" /MACHINE:X64  /machine:x64 cmTC_bc8dc.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_bc8dc.vcxproj -> D:\\flutterProject\\test_app\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-eousqq\\Debug\\cmTC_bc8dc.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\flutterProject\\test_app\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-0wtzog\\Debug\\cmTC_489c9.exe" /INCREMENTAL /ILK:"cmTC_489c9.dir\\Debug\\cmTC_489c9.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/flutterProject/test_app/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-0wtzog/Debug/cmTC_489c9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/flutterProject/test_app/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-0wtzog/Debug/cmTC_489c9.lib" /MACHINE:X64  /machine:x64 cmTC_489c9.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_489c9.vcxproj -> D:\\flutterProject\\test_app\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-0wtzog\\Debug\\cmTC_489c9.exe
         FinalizeBuildStatus:
-          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_bc8dc.dir\\Debug\\cmTC_bc8dc.tlog\\unsuccessfulbuild鈥濄€?
-          姝ｅ湪瀵光€渃mTC_bc8dc.dir\\Debug\\cmTC_bc8dc.tlog\\cmTC_bc8dc.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-        宸插畬鎴愮敓鎴愰」鐩€淒:\\flutterProject\\test_app\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-eousqq\\cmTC_bc8dc.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_489c9.dir\\Debug\\cmTC_489c9.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_489c9.dir\\Debug\\cmTC_489c9.tlog\\cmTC_489c9.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\flutterProject\\test_app\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-0wtzog\\cmTC_489c9.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
         
         宸叉垚鍔熺敓鎴愩€?
             0 涓鍛?
             0 涓敊璇?
         
-        宸茬敤鏃堕棿 00:00:00.57
+        宸茬敤鏃堕棿 00:00:00.54
         
       exitCode: 0
   -
